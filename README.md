@@ -2,8 +2,8 @@
 
 This is a Dart console application to help Dr. Kwame Asante (UENR) automatically calculate final grades for students based on:
 
-- Continuous Assessment (out of 30)
-- Exam Score (out of 50)
+- Continuous Assessment (out of 20)
+- Exam Score (out of 60)
 - Project Score (out of 20)
 
 ### 📌 Grading Scale
