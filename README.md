@@ -22,4 +22,4 @@ This is a Dart console application to help Dr. Kwame Asante (UENR) automatically
 ## ✅ How to Run
 
 1. Make sure you have Dart installed.
-2. Clone the repository: using the HTTPS URL
+2. Clone the repository: using the WEB URL (HTTPS)
